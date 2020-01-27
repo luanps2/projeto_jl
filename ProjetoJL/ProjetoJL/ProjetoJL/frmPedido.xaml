@@ -48,7 +48,7 @@
                     <Label Content="XX" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="470,153,0,0" Width="102" FontSize="13" FontWeight="Bold" RenderTransformOrigin="0.469,-0.083" Height="28"/>
                     <Label Content="R$0.00" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="470,179,0,0" Width="102" FontSize="13" FontWeight="Bold" RenderTransformOrigin="0.469,-0.083" Height="28"/>
                     <Label Content="Resumo" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="399,87,0,0" Width="119" RenderTransformOrigin="0.681,0.958" FontWeight="Bold" FontSize="16"/>
-                    <Button x:Name="btnAdicionar_Copy" Content="Testes" HorizontalAlignment="Left" Margin="386,43,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click" Background="#FF5881C9" BorderBrush="{x:Null}"/>
+                    <Button x:Name="btnAdicionar_Copy" Content="Testes" HorizontalAlignment="Left" Margin="383,55,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click" Background="#FF5881C9" BorderBrush="{x:Null}"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Pesquisar">
